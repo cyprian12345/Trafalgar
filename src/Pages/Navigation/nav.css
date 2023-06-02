@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;1,700&display=swap');
+.navbar{
+    padding: 0!important;
+}
+.nav-link{
+    font-family: "mulish", sans-serif;
+    font-weight: 300;
+}
+.home {
+    font-weight: 700 !important;
+}

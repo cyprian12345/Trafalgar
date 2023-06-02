@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,400;1,700&display=swap');
+*{
+    font-family: "mulish, sans-serif";
+}
+.health h2{
+    font-weight: 700;
+}  
+.health p {
+    font-weight: 700;
+    color:#7b7987 ;
+}
+.hero-btn{
+    outline: none;
+    box-shadow: none;
+    border: 0;
+    background: #458ff6;
+    color: #fff;
+    padding: 15px 35px;
+    border-radius: 55px;
+}
+.health-img img{
+    width:100%;
+}
+.health {
+    margin: 17% auto;
+}
